@@ -5,8 +5,8 @@
 
 Clone the repo:
 ```sh
-git clone git@github.com:KunalKapadia/express-mongoose-es6-rest-api.git
-cd express-mongoose-es6-rest-api
+git clone https://github.com/jedimahdi/es7-express-rest-api.git
+cd es7-express-rest-api
 ```
 
 Install yarn:
