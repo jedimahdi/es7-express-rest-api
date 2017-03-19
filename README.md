@@ -1,7 +1,37 @@
 # es7-express-rest-api
 
 
+## Getting Started
 
+Clone the repo:
+```sh
+git clone git@github.com:KunalKapadia/express-mongoose-es6-rest-api.git
+cd express-mongoose-es6-rest-api
+```
+
+Install yarn:
+```js
+npm install -g yarn
+```
+
+Install dependencies:
+```sh
+yarn
+```
+
+Set environment (vars):
+```sh
+cp .env.example .env
+```
+
+Start server:
+```sh
+# Start server
+yarn start
+
+# Selectively set DEBUG env var to get logs
+DEBUG=express-mongoose-es6-rest-api:* yarn start
+```
 
 Tests:
 ```sh
